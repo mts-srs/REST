@@ -1,0 +1,21 @@
+issue:
+  n1:
+    deadline: 23.06.2020
+    todo: Work on new search engine
+    where: google.com
+  n2:
+    deadline: 10.08.2020
+    todo: Create new website
+    where: cat.put.poznan.pl
+  n3:
+    deadline: 01.01.2021
+    todo: Shoot some photos
+    where: imageshack.us
+  n4:
+    deadline: 02.11.2020
+    todo: Create new API
+    where: localhost
+  n5:
+    deadline: 9.06.2020
+    todo: More ads
+    where: facebook.com

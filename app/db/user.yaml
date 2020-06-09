@@ -1,25 +1,51 @@
 user:
-  id10:
-    email: wvalek3@vk.com
+  id1:
+    email: wv2alek3@vk.com
     first_name: Wiillard
     gender: Male
     ip_address: 67.76.188.26
+    issue:
+      deadline: 23.06.2020
+      todo: Work on new search engine
+      where: google.com
     last_name: Valek
+  id2:
+    email: nicetry@mail.com
+    first_name: Wilson
+    gender: Male
+    ip_address: 67.77.188.26
+    issue:
+      deadline: 9.06.2020
+      todo: More ads
+      where: facebook.com
+    last_name: Smith
   id3:
     email: nbea2@imageshack.us
     first_name: Noell
     gender: Female
     ip_address: 180.66.162.255
+    issue:
+      deadline: 10.08.2020
+      todo: Create new website
+      where: cat.put.poznan.pl
     last_name: Bea
   id4:
     email: wvalek3@vk.com
-    first_name: Willard
+    first_name: Wiillard
     gender: Male
     ip_address: 67.76.188.26
+    issue:
+      deadline: 01.01.2021
+      todo: Shoot some photos
+      where: imageshack.us
     last_name: Valek
   id5:
     email: mateusz@wajcheprzeloz.pl
     first_name: Mateusz
     gender: Male
     ip_address: 127.0.0.1
+    issue:
+      deadline: 02.11.2020
+      todo: Create new API
+      where: localhost
     last_name: WajchePrzeloz

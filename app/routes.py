@@ -51,6 +51,7 @@ def index():
 
 @app.route('/user/<string:id>', methods=['GET'])
 def get_user(id):
+    global user
     try:
         Load()
         return jsonify({id: json.dumps(user['user'][id])}), 200
